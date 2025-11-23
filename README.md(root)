@@ -1,0 +1,10 @@
+# ArchBot – Financial Voice Assistant (Prototype)
+
+This repository contains a simplified prototype structure for the ArchBot system.
+
+### 📁 Folder Structure
+- **frontend/** – UI simulation
+- **backend/** – API server placeholder
+- **ai_engine/** – AI processing logic placeholder
+- **diagrams/** – System architecture description
+- **README.md** – Project overview
